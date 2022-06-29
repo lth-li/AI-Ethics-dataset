@@ -1,4 +1,4 @@
-﻿antal_tidal_volym_perioder_t_1,vts_indikator3_cat_t_1,vts_indikator3_txt_t_1,sederingsmal_invasiv_vent_txt_t_1,sederingsmal_invasiv_vent_cat_t_1,sista_kufftryck_cm_h2o_t_1,sista_vts_summa_t_1,vts_medel_1,daganteckning_lakare_t_1,inotropa_unika_t_1,antal_mediciner_t_1,kon,alder,facit_vardlangd_kvar
+variabel_1,variabel_2,variabel_3,variabel_4,variabel_5,variabel_6,variabel_7,variabel_8,variabel_9,variabel_10,variabel_11,kon,alder,vard_over_24_timmar
 0.0,3.0,-1.0,-1.0,-1.0,0.0,18.0,13.3,893.0,0.0,2.0,0.0,0.0,1
 2.0,3.0,1.0,0.0,2.0,-1.0,-1.0,20.2,0.0,2.0,5.0,0.0,69.0,0
 25.0,3.0,0.0,0.0,1.0,29.0,17.0,19.7,4882.0,2.0,5.0,0.0,0.0,1
